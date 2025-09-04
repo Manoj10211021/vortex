@@ -1,0 +1,58 @@
+
+/generated/prisma
+# Node modules (ignore from root and all sub-packages)
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+build/
+**/dist/
+**/build/
+.next/
+**/.next/
+.out/
+**/.out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.* 
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+**/coverage/
+
+# Lerna
+lerna-debug.log
+
+# Turborepo cache
+turbo/
+**/turbo/
+
+# Optional: ignore output folders of packages
+/packages/*/out/
+/packages/*/.next/
+
+# Optional: ignore lockfiles from other package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
