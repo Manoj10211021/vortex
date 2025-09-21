@@ -152,7 +152,7 @@ const client = createClient({
 const ecsClient = new ECSClient({
     region: 'ap-south-1',
     credentials: {
-        accessKeyId: 'AKIAWBN7VGULVPSAIQJH',
+        accessKeyId: '',
         secretAccessKey: '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'
     }
 })
