@@ -8,7 +8,7 @@ const { Kafka } = require('kafkajs');
 const s3Client = new S3Client({
     region: 'ap-south-1',
     credentials: {
-        accessKeyId: 'AKIAWBN7VGULVPSAIQJH',
+        accessKeyId: '',
         secretAccessKey: ''
     }
 });
