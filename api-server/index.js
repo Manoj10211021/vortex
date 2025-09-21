@@ -145,7 +145,7 @@ const client = createClient({
     host: 'https://clickhouse-84cb811-manoj1021.e.aivencloud.com:17637',
     database: 'default',
     username: 'avnadmin',
-    password: 'AVNS_sRj04dhQ4smBuRz2DS3'
+    password: ''
 })
 
 // AWS ECS Client (with your original credentials)
