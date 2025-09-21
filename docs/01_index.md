@@ -1,4 +1,3 @@
-# Tutorial: Vortex
 
 **Vortex** is an _automated deployment platform_ designed to simplify taking a user's **GitHub code** and publishing it as a live website. It acts like a personal, automated build engineer, handling everything from _fetching your project_ from GitHub and **building it** in an isolated environment, to _uploading the final static files_ for hosting, all while providing **real-time logs** for transparent progress tracking.
 
